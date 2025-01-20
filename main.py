@@ -3,7 +3,7 @@ import time
 import threading
 from telebot import TeleBot
 
-bot = TeleBot('7733062260:AAEUhtZt2I-okyVefvyYMl7xvzgMTh4qyQ0')
+bot = TeleBot('YOUR TOKEN')
 data = ["загрязнение", "стекло", "мусор", "завод", "выхлоп", "выбросы", "химия", "нефть", "газы", "климат", "потепление", "углерод", "фактор", "ущерб", "огонь", "пламя", "наводнение", "почва", "воздух", "диоксид", "атмосфера", "поражение"]
 
 registered_users = {}  
